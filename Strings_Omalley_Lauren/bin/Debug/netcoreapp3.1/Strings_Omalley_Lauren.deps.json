@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Strings_Omalley_Lauren/1.0.0": {
+        "runtime": {
+          "Strings_Omalley_Lauren.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Strings_Omalley_Lauren/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
